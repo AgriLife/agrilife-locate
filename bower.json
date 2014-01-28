@@ -1,0 +1,8 @@
+{
+  "name": "agrilife-locate",
+  "version": "1.0",
+  "dependencies": {
+	  "geojson-google-maps": "master",
+	  "geolib": "~1.3.5"
+  }
+}

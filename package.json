@@ -1,0 +1,24 @@
+{
+  "name": "agrilife-locate",
+  "version": "1.0.0",
+  "description": "A geolocation plugin to assist users in finding a county extension office",
+  "main": "agrilife-locate.php",
+  "dependencies": {
+    "grunt": "latest"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-compass": "~0.6.0",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-csslint": "~0.2.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "scripts": {
+    "test": "phpunit"
+  },
+  "repository": "",
+  "author": "J. Aaron Eaton",
+  "license": "GPL2+",
+  "readmeFilename": "README.md"
+}
